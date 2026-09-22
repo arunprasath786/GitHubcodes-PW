@@ -44,6 +44,6 @@ await page.locator('//a[@data-test-id="header-desktop:cart-link"]').click()
 
 //const cartProd = await page.locator('//span[@data-test-id="text:cart-product-name"]').innerText()
 //console.log(cartProd);
-
+//file has been editen in github
    
 })
